@@ -16,7 +16,7 @@
 7. **Basic Commands using kubectl**:  
    - `kubectl get pods`, `kubectl create`, `kubectl delete`.  
 8. **Kubernetes Cluster Setup**:  
-   - Local setup with Minikube/Kind.  
-   - Overview of managed services (EKS, AKS, GKE).  
+   - Setup Kubernetes Cluster In AWS or Azure  
+   - Try to deploy single pod of nginx and access it by using NodePort. 
 
 This plan provides a solid foundation to start working with Kubernetes!
