@@ -1,5 +1,7 @@
 # 🚀 DevOps-Katta -  **DevOps Free Workshop Agenda**  
 
+👉 Join DevOps Katta WhatsApp Group: Click Here https://chat.whatsapp.com/GX2ZRcKv6JEHauJvzBoBuL
+
 ### **🌟 Soft Skills & Career Essentials**  
 ✅ 🕰 **Daily Routine** – Build habits for productivity & success  
 ✅ 🗣 **Effective English Communication** – Improve speaking & writing skills  
