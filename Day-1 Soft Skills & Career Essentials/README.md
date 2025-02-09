@@ -22,6 +22,8 @@
 - **Beyond Daily Tasks:**  
   - Once routine work is done, **utilize extra time for upskilling** in new DevOps tools, cloud technologies, or automation strategies.  
   - Keep improving workflows and processes proactively.  
+  - Attend Internal Trainings - Technical or Soft Skills
+
 - **Continuous Learning:**  
   - Attend webinars, read tech blogs, and explore open-source contributions.  
 
@@ -47,3 +49,37 @@
 
 **💡 Key Takeaway:**   
 Success is built on **discipline, self-improvement, and focus.** 🌟 
+
+## 🏢 **Corporate Culture & Workplace Etiquette – Be Professional at Work**  
+
+### ✅ **Professionalism & Work Ethics**  
+- **Be Punctual** – Arrive on time for meetings and work.  
+- **Dress Appropriately** – Follow the company dress code.  
+- **Respect Everyone** – Treat colleagues, seniors, and juniors with kindness.  
+- **Maintain a Positive Attitude** – Be approachable and solution-oriented.  
+- **Take Ownership** – Complete tasks responsibly and meet deadlines.  
+
+---
+
+### 🗣 **Communication & Behavior**  
+- **Be Clear & Polite** – Use professional language in emails and conversations.  
+- **Listen Actively** – Respect others’ opinions in meetings.  
+- **Avoid Office Gossip** – Stay professional and focus on work.  
+- **Use ‘Please’ & ‘Thank You’** – Show appreciation.  
+
+---
+
+### 💻 **Workplace Productivity & Collaboration**  
+- **Follow Company Policies** – Understand rules on attendance, security, and conduct.  
+- **Keep Workstation Clean** – A tidy desk shows discipline.  
+- **Manage Time Well** – Prioritize tasks and avoid distractions.  
+- **Be a Team Player** – Help colleagues and work together effectively.  
+
+---
+
+### 🚀 **Growth & Success at Work**  
+- **Keep Learning** – Upskill to stay relevant.  
+- **Seek Feedback** – Improve based on constructive criticism.  
+- **Maintain Work-Life Balance** – Avoid burnout and stay productive.  
+
+**Tip:** **Professionalism builds trust and career success!** 🌟
