@@ -1,4 +1,4 @@
-## **🛠️ Career Foundation & DevOps Tools**  
+## **🛠️ Day-2 Career Foundation & DevOps Tools**  
 
 ### 1️⃣ **DevOps Tools To Learn For a Bright Future in DevOps Career?**  
    - 📝 **Version Control**: Git, GitHub, GitLab, Bitbucket  
