@@ -71,4 +71,4 @@
 ### 6️⃣ **Monitoring & Observability**  
    - 📊 **Monitoring**: Tracks metrics (CPU, RAM, Disk, Network) – Prometheus, Grafana  
    - 🔎 **Observability**: Deep system visibility – OpenTelemetry, ELK Stack  
-   - 📢 **Alerting**: Integrate with PagerDuty, Slack, Opsgenie  
+   - 📢 **Alerting**: Integrate with PagerDuty, Slack, CloudWatch With SNS  
