@@ -12,8 +12,11 @@
 📺 YouTube Channel:
 https://www.youtube.com/@namdev.devops
 
-💬 WhatsApp Channel (Latest Updates):
+💬 WhatsApp Group (Latest Updates):
 https://whatsapp.com/channel/0029VbCFJhi1CYoN35Hljy2R
+
+🔗 Follow Me on LinkedIn for Daily DevOps & Career Posts
+👉 https://www.linkedin.com/in/namdev-rathod
 
 📞 WhatsApp for Live Trainings:
 +91 7276 12 1983
