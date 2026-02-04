@@ -1,41 +1,145 @@
-# 🚀 DevOps-Katta -  **DevOps Free Workshop Agenda**  
+## 🚀 **FREE DevOps Roadmap Program | 3 Days**
 
-👉 Join DevOps Katta WhatsApp Group: Click Here https://chat.whatsapp.com/GX2ZRcKv6JEHauJvzBoBuL
-
-### **🌟 Soft Skills & Career Essentials**  
-✅ 🕰 **Daily Routine** – Build habits for productivity & success  
-✅ 🗣 **Effective English Communication** – Improve speaking & writing skills  
-✅ 🏢 **Corporate Culture & Workplace Etiquette** – Understand professionalism at work  
-✅ 🤝 **Professional Networking** – Grow your industry connections  
-
-### **🛠 DevOps Foundations & Tools for 2025-2026**  
-✅ **DevOps Tools To Learn for 2025-2026** – Stay ahead with future trends  
-✅ 🎓 **Is Certification Necessary for Career Growth?** – Explore its real impact  
-✅ **Does Programming Skills Help in DevOps?** – Myth vs Reality  
-✅ 🛠 **DevOps Tools & Technologies** – Must-know tools for every DevOps engineer  
-✅ 🐧 **Linux Scope in DevOps** – Why Linux is essential for DevOps  
-✅ 🖥 **Git for DevOps** – Version control & best practices  
-
-### **⚙️ Advanced DevOps & Automation**  
-✅ ⚙️ **DevSecOps CI/CD Pipeline** – Integrating security in CI/CD  
-✅ 🤖 **AI Automation in DevOps** – Tools like Cody, GitHub Copilot, etc.  
-✅ 🐳 **Docker vs AWS ECS Fargate** – When to use what?  
-✅ 🏗 **Infrastructure as Code (IaC)** – Terraform & AWS CDK  
-✅ 📊 **Monitoring & Observability** – Tools & strategies  
-
-### **💻 Hands-on Projects & Real-World Implementation**  
-✅ 💻 **Real-World DevOps Projects** – Industry use cases & case studies  
-✅ 🛠 **Troubleshooting & Problem-Solving** – Debugging complex issues  
-✅ 📝 **Ansible, Scripting & Programming Languages** – DevOps automation skills  
-✅ 🛡 **Infrastructure Audit & Security Compliance** – Ensuring security in DevOps  
-
-### **📄 Career Growth & Job Preparation**  
-✅ 📄 **Resume Building & Optimization** – Stand out from the crowd  
-✅ 🔍 **Enhancing Naukri & LinkedIn Profiles** – Get noticed by recruiters  
-✅ 🎯 **Job Search Strategies & Best Practices** – Proven job hunting techniques  
-✅ 🎤 **Mock Interviews & Interview Preparation** – Crack your next DevOps interview  
-✅ 📋 **Project Management & Leadership Skills** – Transitioning to senior roles  
+> A clarity-first DevOps program for beginners & working professionals
+> **No tools. No coding. Only direction.**
 
 ---
 
-🔥 **Don't miss this opportunity to upskill for FREE!** Join now and supercharge your DevOps career! 🚀 
+👤 Mentor: Namdev Rathod
+🎯 Experience: 15+ Years in IT Industry
+☁️ Certified: AWS | Kubernetes
+
+📺 YouTube Channel:
+https://www.youtube.com/@namdev.devops
+
+💬 WhatsApp Channel (Latest Updates):
+https://whatsapp.com/channel/0029VbCFJhi1CYoN35Hljy2R
+
+📞 WhatsApp for Live Trainings:
++91 7276 12 1983
+
+📘 Program Details & Resources:
+https://github.com/namdev-rathod/DevOps-Katta
+
+## 📘 **Day 1 – Mindset, Discipline & Direction**
+
+### Focus: *Preparing yourself before starting DevOps*
+
+1. **Daily Routine (Learners & Professionals)**
+
+   * How DevOps learners should structure their day
+   * Balancing job, learning & personal life
+
+2. **Time Management for Skill Learning**
+
+   * How much time DevOps actually needs
+   * Consistency vs motivation
+   * 1–2 hour daily strategy
+
+3. **Impact of Social Media on Learning**
+
+   * Tutorial overload & comparison trap
+   * Fake roadmaps & influencer noise
+   * How to filter the right content
+
+4. **Stack to Learn (High-Level View)**
+
+   * What skills DevOps really needs
+   * Correct learning order
+   * What to ignore initially
+
+5. **Live Q&A**
+
+🎯 **Outcome:**
+✅ Clear mindset + realistic expectations
+
+---
+
+## 📘 **Day 2 – DevOps Roadmap & Industry Reality**
+
+### Focus: *Understanding the industry before learning tools*
+
+1. **DevOps Roadmap (Beginner → Job Ready)**
+
+   * Step-by-step learning direction
+   * What comes first & what comes later
+
+2. **Learning Strategies That Actually Work**
+
+   * Self-study vs courses vs practice
+   * Why most people quit midway
+   * Smart learning approach
+
+3. **Types of IT Industries**
+
+   * Product vs Service companies
+   * Startup vs MNC
+   * How DevOps role differs
+
+4. **How Real Projects Work**
+
+   * Idea → Dev → Test → Release → Production
+   * Where failures & pressure happen
+   * Role of DevOps in real projects
+
+5. **Live Q&A**
+
+🎯 **Outcome:**
+✅ Clear understanding of **industry & real DevOps work**
+
+---
+
+## 📘 **Day 3 – Career Clarity & Next Steps**
+
+### Focus: *Avoid wrong decisions & wasted years*
+
+1. **Who Should Choose DevOps (Honest Truth)**
+
+   * Freshers vs experienced professionals
+   * Tech vs non-tech background
+
+2. **Common Mistakes That Waste 6–12 Months**
+
+   * Tool jumping without basics
+   * Certificate-only mindset
+   * Unrealistic salary expectations
+
+3. **Resume, Projects & Hiring Reality**
+
+   * What companies actually expect
+   * Importance of understanding over tools
+
+4. **Career Growth Path**
+
+   * DevOps → SRE → Platform roles
+   * Salary myths vs reality
+
+5. **Next 90-Day Action Plan + Q&A**
+
+🎯 **Outcome:**
+✅ Career clarity + confident next steps
+
+---
+
+## 🔗 **Program & Community Links (Highlights)**
+
+📺 **YouTube Channel:**
+👉 [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
+
+💬 **Join WhatsApp Group for Latest Updates:**
+👉 [https://whatsapp.com/channel/0029VbCFJhi1CYoN35Hljy2R](https://whatsapp.com/channel/0029VbCFJhi1CYoN35Hljy2R)
+
+📘 **Program Details & Resources:**
+👉 [https://github.com/namdev-rathod/DevOps-Katta](https://github.com/namdev-rathod/DevOps-Katta)
+
+---
+
+## 🔥 **Program Highlights**
+
+* ⏱️ Daily: **1 Hour**
+* 🧠 **100% Real World Knowledge**
+* 🎯 Clarity > Tools
+* 🚀 Beginner Friendly
+* 💯 Free Guidance from Real Industry Experience
+
+---
